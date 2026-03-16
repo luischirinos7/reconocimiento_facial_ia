@@ -1,0 +1,20 @@
+# Entorno Virtual 
+entorno_facial/
+venv/
+env/
+
+# Base de datos 
+*.db
+sistema_facial.db
+
+# Archivos temporales de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Reportes generados
+*.csv
+reporte_emociones.csv
+
+# Carpetas de VS Code
+.vscode/
