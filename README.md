@@ -13,7 +13,7 @@ Este proyecto es un software de visión artificial desarrollado en Python que pe
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone [https://github.com/tu_usuario/tu_repositorio.git](https://github.com/tu_usuario/tu_repositorio.git)
+   git clone https://github.com/luischirinos7/reconocimiento_facial_ia.git
 
 2. **Crear y activar entorno virtual:**
    ```bash
